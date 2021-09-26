@@ -18,8 +18,13 @@ CMS-style blog site which is following MVC (Model-View-Controller) paradigm in i
 * [Questions](#questions)
   
 ## Installation 
+
+GitHub URL: https://github.com/mikhaelhamoy/challenge-week-14.git
+Heroku git URL: https://git.heroku.com/mlhamoy-tech-blog.git
   
-## Usage 
+## Usage
+
+Deployed Application: https://mlhamoy-tech-blog.herokuapp.com/
 
 ## Contributing 
  
