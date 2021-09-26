@@ -83,11 +83,20 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 0 1%;
+  padding: 1% 1%;
 }
 
 header h1 {
-  font-size: 1em;
+  font-size: 2em;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+}
+
+nav a, nav button {
+  padding: 0 1em;
 }
 
 main {
@@ -126,10 +135,9 @@ main {
   line-height: 150%;
 }
 
-.post .title span {
-  font-style: italic;
-  font-size: 90%;
-  color: #7d7d7d;
+.post .title {
+  display: flex;
+  justify-content: space-between;
 }
 
 .edit-link {
