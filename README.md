@@ -23,7 +23,17 @@ CMS-style blog site which is following MVC (Model-View-Controller) paradigm in i
 
 ## Contributing 
  
-## Tests 
+## Tests
+
+![Homepage](/content/images/homepage.png)
+
+![Login](/content/images/login.png)
+
+![Dashboard](/content/images/dashboard.png)
+
+![Single Post](/content/images/single-post.png)
+
+![Edit Post](/content/images/edit-post.png)
      
 ## License
 
